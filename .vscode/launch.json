@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hansemin/Desktop/develop/pinpong/cv_prac",
+      "program": "/Users/hansemin/Desktop/develop/pinpong/cv_prac/build/Debug/outDebug"
+    }
+  ]
+}
